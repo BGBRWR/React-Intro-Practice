@@ -2,7 +2,7 @@
   "name": "React-Intro-Practice",
   "version": "1.0.0",
   "description": "A two day workshop on a complete intro to React",
-  "main": "index.js",
+  "main": "server.js",
   "author": "",
   "license": "MIT",
   "scripts": {
